@@ -1,5 +1,6 @@
 <script>
 	import Nav from '../components/Nav.svelte';
+	import _ from 'lodash';
 
 	export let segment;
 </script>
